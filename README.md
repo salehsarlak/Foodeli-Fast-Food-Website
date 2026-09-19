@@ -7,7 +7,15 @@
 
 ### 🍔 A modern, fully responsive fast-food delivery website
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://salehsarlak.github.io/a-responsive-website/)
+<br/>
+
+<!-- Fancy Live Demo Button -->
+<a href="https://salehsarlak.github.io/a-responsive-website/">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Live_Demo-Click_to_Open-FF6B35?style=for-the-badge&labelColor=1a1a2e&logo=vercel&logoColor=white" alt="Live Demo" height="50"/>
+</a>
+
+<br/><br/>
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Remix Icon](https://img.shields.io/badge/Remix%20Icon-000000?style=for-the-badge&logo=remix&logoColor=white)](https://remixicon.com/)
@@ -32,10 +40,15 @@
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="baner.png" width="280" alt="Hero Food" />
+  <img src="baner.png" width="900" alt="Foodeli Website Preview" />
+  
+  <br/><br/>
+  
+  <!-- Fancy Live Demo Button -->
+  <a href="https://salehsarlak.github.io/a-responsive-website/">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Live_Demo-Click_to_Open-FF6B35?style=for-the-badge&labelColor=1a1a2e&logo=vercel&logoColor=white" alt="Live Demo" height="50"/>
+  </a>
 </div>
-
-> 🔗 **Live Demo:** [https://salehsarlak.github.io/a-responsive-website/](https://salehsarlak.github.io/a-responsive-website/)
 
 ---
 
@@ -80,7 +93,11 @@ That’s it! No build step needed.
 
 This project is deployed with **GitHub Pages**.
 
-👉 **Live Site:** [https://salehsarlak.github.io/a-responsive-website/](https://salehsarlak.github.io/a-responsive-website/)
+<div align="center">
+  <a href="https://salehsarlak.github.io/a-responsive-website/">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Live_Demo-Click_to_Open-FF6B35?style=for-the-badge&labelColor=1a1a2e&logo=vercel&logoColor=white" alt="Live Demo" height="50"/>
+  </a>
+</div>
 
 > If the link doesn’t work yet, go to **Settings → Pages** and set Source to `main` branch / root.
 
