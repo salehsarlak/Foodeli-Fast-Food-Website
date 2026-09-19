@@ -32,9 +32,7 @@
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="assets/img/hamberger%201.png" width="280" alt="Hero Food" />
-  <img src="assets/img/1.png" width="200" alt="Combo" />
-  <img src="assets/img/4.png" width="200" alt="Chicken Burger" />
+  <img src="baner.png" width="280" alt="Hero Food" />
 </div>
 
 > 🔗 **Live Demo:** [https://salehsarlak.github.io/a-responsive-website/](https://salehsarlak.github.io/a-responsive-website/)
